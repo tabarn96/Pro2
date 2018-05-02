@@ -1,0 +1,30 @@
+img {
+	float: right;
+}
+
+p.left {
+	float: left;
+}
+
+body {
+	background-color: #C5B9C7;
+	font-family: 'Muli', sans-serif;
+}
+
+.container1 {
+	align-items: center;
+	margin: auto;
+	text-align: center;
+}
+
+.center {
+	margin: auto;
+}
+
+.fluid-container {
+	background-color: #C5B9C7;
+}
+
+.row {
+	color: ghostwhite;
+}
